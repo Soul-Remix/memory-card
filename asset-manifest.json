@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.14cd121d.chunk.css",
+    "main.js": "/memory-card/static/js/main.4e2bcd72.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.4e2bcd72.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.fb077c8c.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.fb077c8c.js.map",
+    "static/js/2.983ad27d.chunk.js": "/memory-card/static/js/2.983ad27d.chunk.js",
+    "static/js/2.983ad27d.chunk.js.map": "/memory-card/static/js/2.983ad27d.chunk.js.map",
+    "static/js/3.10be8a51.chunk.js": "/memory-card/static/js/3.10be8a51.chunk.js",
+    "static/js/3.10be8a51.chunk.js.map": "/memory-card/static/js/3.10be8a51.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.14cd121d.chunk.css.map": "/memory-card/static/css/main.14cd121d.chunk.css.map",
+    "static/js/2.983ad27d.chunk.js.LICENSE.txt": "/memory-card/static/js/2.983ad27d.chunk.js.LICENSE.txt",
+    "static/media/pokemon-logo.b0f906ab.png": "/memory-card/static/media/pokemon-logo.b0f906ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb077c8c.js",
+    "static/js/2.983ad27d.chunk.js",
+    "static/css/main.14cd121d.chunk.css",
+    "static/js/main.4e2bcd72.chunk.js"
+  ]
+}
