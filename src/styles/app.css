@@ -57,6 +57,59 @@
   background-color: rgb(181, 255, 181);
 }
 
+.overlay {
+  height: 150%;
+  width: 100%;
+  position: absolute;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.message-card {
+  background-color: rgb(181, 255, 181);
+  padding: 95px;
+  font-size: 2rem;
+  border-radius: 25px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap column;
+}
+
+.message-card p {
+  margin-top: 0;
+}
+
+.message-card button {
+  border: 1px transparent;
+  padding: 15px;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  cursor: pointer;
+  background-color: rgb(239, 14, 61, 1);
+  color: white;
+}
+
+.message-card button:hover {
+  background-color: rgb(201, 14, 54);
+}
+
+.lose {
+  background-color: rgb(239, 14, 61, 1);
+}
+
+.lose button {
+  background-color: rgb(17, 190, 17);
+}
+
+.lose button:hover {
+  background-color: rgb(181, 255, 181);
+}
+
 @media screen and (min-width: 768px) {
   .container {
     grid-template-columns: repeat(3, 1fr);
