@@ -7,7 +7,7 @@ function Header() {
     <div>
       <header>
         <div>
-          <img src={logo} />
+          <img src={logo} alt="" aria-hidden={true} />
         </div>
       </header>
       <div className="black-line"></div>
